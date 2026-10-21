@@ -15,8 +15,9 @@
 
   
   <!-- SUBTÍTULO DIGITADO ESTILO DEV (CIANO) COM ÍCONES -->
+>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=⚡+Engenheiro+Eletricista+%2B+Tecnólogo em Telemática+;Infraestrutura+de+Redes,+5G+%26+Telecom;Automação+Smart,+IoT+%26+Sonorização;Dev+Python+|+Java" alt="Subtítulo Dinâmico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Engenheiro+Eletricista+%2B+Telem%C3%A1tica;%F0%9F%93%A1+Infraestrutura+de+Redes,+5G+%26+Telecom;%F0%9F%A4%96+Automa%C3%A7%C3%A3o+Smart,+IoT+%26+Sonoriza%C3%A7%C3%A3o;%F0%9F%92%BB+Dev+Python+%7C+Java+%7C+Verilog" alt="Legenda Dinâmica" />
 </a>
 
   <br/><br/>
