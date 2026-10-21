@@ -1,116 +1,98 @@
 <div align="center">
 
-  <!-- BANNER CABEÇALHO ANIMADO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20👋,%20Eu%20sou%20Ewerton%20Barbosa&fontSize=36&fontColor=3fb950&animation=twinkling" width="100%" />
+  <!-- CABEÇALHO COM GRADIENTE VIBRANTE E ANIMADO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Ewerton%20Nascimento&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
+  <!-- SUBTÍTULO COM EFEITO DE DIGITAÇÃO EM VERDE NÉON -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Engenheiro+Eletricista+em+Forma%C3%A7%C3%A3o+(UFCG);%F0%9F%93%A1+Tecn%C3%B3logo+em+Telem%C3%A1tica+(IFPB);%F0%9F%92%BB+Redes%2C+Automa%C3%A7%C3%A3o+%26+Desenvolvimento;%F0%9F%9B%A1%EF%B8%8F+Conselho+CFT+Ativo" alt="Typing Subtitle" />
+  </a>
+
+  <br/><br/>
+
+  <!-- BADGES DE CONTACTO COLORIDAS -->
   <p align="center">
-    <code>⚡ SYSTEM_READY // NETWORK_ONLINE ⚡</code>
-  </p>
-
-  <h3><b>Engenheiro Eletricista (UFCG) & Tecnólogo em Telemática (IFPB)</b></h3>
-
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-emerald?style=for-the-badge&logo=github" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Conselho-CFT%20Ativo-blue?style=for-the-badge" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CNH-Categoria%20AB-orange?style=for-the-badge" /></a>
+    <a href="mailto:ewertonbarbosa90@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Pessoal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="mailto:ewerton.nascimento@academico.ifpb.edu.br">
+      <img src="https://img.shields.io/badge/Email_Acad%C3%AAmico-005A9C?style=for-the-badge&logo=academic-knowledge&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/ewerton.b.n.amaro" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
   </p>
 
 </div>
 
-<hr />
+---
 
-## 👨‍💻 Sobre Mim / `README.md`
+### 🚀 Sobre Mim
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>Sou um estudante e profissional em constante evolução, com formação base técnica em <b>Eletrotécnica</b> e <b>Eletroeletrônica</b>, atualmente cursando <b>Engenharia Elétrica (UFCG)</b> e <b>Telemática (IFPB)</b>.</p>
-      <p>Tenho experiência prática em manutenção elétrica, projetos elétricos e infraestrutura de redes de comunicação. Atuo com montagem e suporte técnico de sistemas computacionais, projeto de redes cabeadas, configuração de equipamentos de rede e soluções em conectividade.</p>
-      <p>Meus conhecimentos em programação e tecnologia me permitem propor soluções eficientes e seguras para ambientes de TI, me consolidando como um <b>profissional de conhecimento híbrido</b> — unindo Engenharia Elétrica, Redes de Computadores, Infraestrutura de Redes e Análise & Desenvolvimento de Sistemas.</p>
-    </td>
-    <td width="35%" valign="top">
-      <h4>📍 Dados & Contato</h4>
-      <ul>
-        <li><b>Local:</b> Campina Grande, PB - Brasil</li>
-        <li><b>Email:</b> ewertonbarbosa90@gmail.com</li>
-        <li><b>Acadêmico:</b> ewerton.nascimento@academico.ifpb.edu.br</li>
-        <li><b>Fone:</b> (83) 92141-4577</li>
-        <li><b>Instagram:</b> <a href="https://instagram.com/ewerton.b.n.amaro">@ewerton.b.n.amaro</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🎓 Graduando em **Engenharia Elétrica** na Universidade Federal de Campina Grande (**UFCG**).
+- 🎓 Graduando em **Telemática** no Instituto Federal da Paraíba (**IFPB**).
+- ⚡ Técnico em **Eletroeletrônica** (SENAI Stênio Lopes) e **Informática** (IFPB).
+- 🛡️ Registro Profissional: **Conselho CFT (Ativo)** | CNH Categoria AB.
+- 📍 **Localização:** Campina Grande, PB - Brasil.
 
-<br />
+> 💡 **Perfil Híbrido:** Atuação focada em integrar **Engenharia Elétrica, Infraestrutura de Redes, Automação Residencial/Comercial** e **Desenvolvimento de Software**.
 
-## 🌐 Idiomas / Languages
+---
 
-| Idioma | Nível | Progresso Visual |
-| :--- | :--- | :--- |
-| 🇧🇷 **Português** | Nativo | `████████████████████` 100% |
-| 🇺🇸 **Inglês** | Em Estudo | `███████████░░░░░░░░░` 55% |
-| 🇫🇷 **Francês** | Em Estudo | `███████░░░░░░░░░░░░░` 35% |
+### 🛠️ Tech Stack & Ferramentas de Domínio
 
-<br />
+<p align="center">
+  <!-- Linguagens de Programação -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linguagem_R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <br/>
+  <!-- CAD & Engenharia Elétrica -->
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Revit_BIM-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/M%C3%A9dia_Tens%C3%A3o-FFB800?style=for-the-badge&logo=lightning&logoColor=black" />
+  <br/>
+  <!-- Redes, Automação & Sistemas -->
+  <img src="https://img.shields.io/badge/Redes_%26_Switches-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tecnologia_5G-8A2BE2?style=for-the-badge&logo=cellular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o_%26_Som-FF4500?style=for-the-badge&logo=microchip&logoColor=white" />
+  <br/>
+  <!-- Ferramentas & Normas -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NR10_%2F_NR35-FF6D00?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 
-## 🛠️ Tech Stack & Habilidades
+---
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>💻 Linguagens</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Linguagem_R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h4>📐 CAD & Projetos</h4>
-      <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Revit_BIM-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/M%C3%A9dia_Tens%C3%A3o-yellow?style=for-the-badge&logo=lightning" />
-    </td>
-    <td align="center" width="33%">
-      <h4>📡 Redes & Automação</h4>
-      <img src="https://img.shields.io/badge/Redes_%26_Switches-005A9C?style=for-the-badge&logo=cisco&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Tecnologia_5G-purple?style=for-the-badge" /><br /><br />
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o_%26_Som-orange?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+### 💼 Trajetória Profissional
 
-<br />
+- 🟢 **2025 – Presente | Estágio em Engenharia Elétrica (Automação e Sonorização)** — *Domotic*  
+  *Programação, configuração e integração de sistemas de automação de iluminação, climatização e sonorização dedicada.*
 
-## 💼 Experiência Profissional
+- 🔵 **2022 | Auxiliar Técnico em Engenharia Clínica** — *TEC Saúde / Hospital Universitário Alcides Carneiro (HUAC)*  
+  *Gestão técnica, calibração e manutenção em equipamentos eletromédicos hospitalares.*
 
-- 🔹 **2025 | Estágio em Engenharia Elétrica (Automação e Sonorização) — Domotic**  
-  *Atuação em projetos de automação residencial/comercial e sonorização integrada. Programação, configuração e integração de iluminação, climatização e áudio.*
-- 🔹 **2022 | Auxiliar Técnico em Engenharia Clínica — TEC Saúde (Hospital Univ. Alcides Carneiro - HUAC)**  
-  *Suporte técnico e manutenção na infraestrutura hospitalar.*
-- 🔹 **2021 | Estágio em Engenharia Elétrica — Engeselt Engenharia e Serviços**  
-  *Desenvolvimento de projetos elétricos em média tensão.*
+- 🟡 **2021 | Estágio em Engenharia Elétrica** — *Engeselt Engenharia e Serviços*  
+  *Desenvolvimento e dimensionamento de projetos elétricos em média tensão e redes de distribuição.*
 
-<br />
+---
 
-## 🎓 Formação Acadêmica & Certificações
+### 🌐 Idiomas
 
-- 🏛️ **Bacharelado em Engenharia Elétrica** — Universidade Federal de Campina Grande (UFCG) | *Em andamento*
-- 📡 **Tecnólogo em Telemática** — Instituto Federal da Paraíba (IFPB) | *Em andamento*
-- 💻 **Técnico em Informática** — IFPB | *Em andamento*
-- ⚡ **Técnico em Eletroeletrônica** — SENAI Stênio Lopes | *Concluído em 2017*
-- 📜 **Certificações:** NR10 (Grau Técnico) • NR35 (Grau Técnico) • Introdução a Redes 5G (IFPB) • CFT Ativo
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Em estudo
+- 🇫🇷 **Francês:** Em estudo
 
-<br />
+---
 
-<details>
-  <summary><b>🖥️ Clique para abrir o CLI Terminal Interativo</b></summary>
-  <br />
-  
-```bash
-$ ewerton --status
-[OK] Profile loaded successfully!
-[OK] Profile Type: Hybrid (Electrical Engineering + Telematics + System Analysis)
-[OK] CFT Register: ACTIVE
-$ ewerton --skills
-Python | Java | R | AutoCAD | Revit | 5G Networks | NR10/NR35
-$ ewerton --contact
-Email: ewertonbarbosa90@gmail.com | Phone: (83) 92141-4577
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANBEWERTON35&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANBEWERTON35&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANBEWERTON35&theme=react-dark&hide_border=true" width="100%" />
+</p>
