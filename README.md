@@ -75,33 +75,67 @@
 </table>
 
 ---
+<h3>🛠️ Tech Stack & Domínio Técnico</h3>
 
-### 🛠️ Tech Stack & Domínio Técnico
-
-<div align="center">
-
-| Categoria | Tecnologias, Softwares & Ferramentas |
-| :--- | :--- |
-| **Linguagens & Dados** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> |
-| **Engenharia & CAD** | <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/Revit_BIM-0696D7?style=flat-square&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/M%C3%A9dia_Tens%C3%A3o-FFB800?style=flat-square&logo=lightning&logoColor=black"/> |
-| **Redes & Automação** | <img src="https://img.shields.io/badge/Redes_%26_Switches-005A9C?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Redes_5G-8A2BE2?style=flat-square&logo=cellular&logoColor=white"/> <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o_Smart-FF4500?style=flat-square&logo=microchip&logoColor=white"/> |
-| **Dev Tools & Sistemas** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/NR10_%2F_NR35-FF6D00?style=flat-square&logo=shield&logoColor=white"/> |
+<table>
+  <tr>
+    <td width="30%" align="right"><b>📊 Linguagens & Dados</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>🏗️ Engenharia & CAD</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Revit_BIM-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+         </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>📡 Redes & Automação</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Redes_%26_Switches-005A9C?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redes_5G-8A2BE2?style=flat-square&logo=cellular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o_Smart-FF4500?style=flat-square&logo=microchip&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>⚙️ Dev Tools & Sistemas</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+          </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+<h3>💼 Experiência & Projetos Práticos</h3>
 
-### 💼 Experiência & Projetos Práticos
-
-```text
-⚡ Domotic (2025 - Presente)
-└── Estágio em Engenharia Elétrica (Automação & Sonorização)
-    • Programação, configuração e integração de iluminação, áudio e climatização.
-
-🏥 TEC Saúde / HUAC (2022)
-└── Auxiliar Técnico em Engenharia Clínica
-    • Manutenção, calibração e suporte técnico em equipamentos eletromédicos hospitalares.
-
-🔌 Engeselt Engenharia e Serviços (2021)
-└── Estágio em Engenharia Elétrica (Média Tensão)
-    • Elaboração e dimensionamento de projetos elétricos em média tensão e redes de distribuição.
+<ul>
+  <li>
+    <b>⚡ Domotic</b> <i>(2025 - Presente)</i><br>
+    <sub>Estágio em Engenharia Elétrica (Automação & Sonorização)</sub>
+    <ul>
+      <li>Programação, configuração e integração de iluminação, áudio e climatização.</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <b>🏥 TEC Saúde / HUAC</b> <i>(2022)</i><br>
+    <sub>Auxiliar Técnico em Engenharia Clínica</sub>
+    <ul>
+      <li>Manutenção, calibração e suporte técnico em equipamentos eletromédicos hospitalares.</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <b>🔌 Engeselt Engenharia e Serviços</b> <i>(2021)</i><br>
+    <sub>Estágio em Engenharia Elétrica (Média Tensão)</sub>
+    <ul>
+      <li>Elaboração e dimensionamento de projetos elétricos em média tensão e redes de distribuição.</li>
+    </ul>
+  </li>
+</ul>
